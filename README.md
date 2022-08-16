@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Create React App
+
+Please click ⭐ if you like the project. Pull request are highly appreciated ❤️.
+
+### [Live Here](https://lucent-custard-00318a.netlify.app/)
+
+
+<img width="692" alt="todo copy" src="https://user-images.githubusercontent.com/61879499/184814735-de66c1e1-5810-4814-9b5c-c749749d25fb.png">
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
