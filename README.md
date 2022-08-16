@@ -1,4 +1,4 @@
-# Create React App
+# React TodoApp
 
 Please click ⭐ if you like the project. Pull request are highly appreciated ❤️.
 
